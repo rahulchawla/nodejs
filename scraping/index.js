@@ -45,5 +45,4 @@ const countBreeds = async () => {
       console.log(error)
     })
 }
-
 countBreeds()
